@@ -3,7 +3,7 @@
 моя личная страница
 $$W=\frac{qU}{2}=\frac{CU^{2}}{2}=\frac{q^{2}}{2C}$$
 $$T=2\pi\sqrt{LC}$$
-$$\overline{E}_1^2=\sqrt\frac{Fa^{x-1}}{(x-1)\cdot x}+a_1{}^{\frac{1}{3}}{}\+b_1^{x^2}$$
+$$\overline{E}_1^2=\sqrt\frac{Fa^{x-1}}{(x-1)\cdot x}+\alpha_1{}^{\frac{1}{3}}{}+\beta_2^{\frac{2}{3}}$$
 
 ![lagrida_latex_editor (15)](https://user-images.githubusercontent.com/114642612/201020562-1501aaf8-f71e-440c-b8ff-b6a98f3eb788.png)
 
