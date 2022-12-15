@@ -25,3 +25,13 @@ $$\overline{E}_1^2=\sqrt\frac{Fa^{x-1}}{(x-1)\cdot x}+\alpha_1{}^{\frac{1}{3}}{}
 ![lagrida_latex_editor (14)](https://user-images.githubusercontent.com/114642612/201020580-869d38a1-deda-4d46-bb35-bff61dd72335.png)
 
 ![lagrida_latex_editor (13)](https://user-images.githubusercontent.com/114642612/201020592-d77f3e3c-1db2-4697-aae2-8aa7ae686a6b.png)
+
+```mermaid
+
+flowchart LR
+
+A[10 класс] -->|Переводные экзамены + начало проблем с ментальным здоровьем | B(11 класс)
+B --> C{ЕГЭ + полные проблемы с ментальным и физическим здоровьем}
+C -->|310 баллов| D[ВУЗ]
+C -->|290 баллов| E[Здраствуй небо в облаках]
+```
