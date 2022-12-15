@@ -1,3 +1,7 @@
+![гирляда 2](https://user-images.githubusercontent.com/114642612/207787713-4a3e902d-c253-43be-8c6f-10760be7912e.jpg)
+
+
+
 # Ig0g0i.github.io
 Голинский
 моя личная страница
