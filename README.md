@@ -1,4 +1,5 @@
-![гирляда 2](https://user-images.githubusercontent.com/114642612/207787713-4a3e902d-c253-43be-8c6f-10760be7912e.jpg)
+![гирлядна](https://user-images.githubusercontent.com/114642612/207790527-866bb81e-2416-4432-8849-1f84beb0dd43.gif)
+
 
 
 
